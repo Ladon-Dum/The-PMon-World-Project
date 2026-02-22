@@ -641,12 +641,10 @@ ShowArea = true
 MapPosition = 1,3,6
 MapSize = 1,1111
 #-------------------------------
-[142]   # Faraway Island BUT FIXED
-Name = Route 23
+[142]   # Faraway Island Exterior
+Name = Faraway Island
 Outdoor = true
 ShowArea = true
-MapPosition = 1,3,6
-MapSize = 1,1111
 #-------------------------------
 [143]   # Route 24
 Name = Route 24
@@ -1192,6 +1190,9 @@ MapPosition = 101,18,15
 [256]   # Three Island Harbor
 Name = Three Isle Port
 MapPosition = 101,22,16
+#-------------------------------
+[257]   # Faraway Island Interior
+Name = Faraway Island
 #-------------------------------
 [267]   # Cape Brink House
 Name = Cape Brink

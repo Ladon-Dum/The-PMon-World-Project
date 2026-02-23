@@ -12,7 +12,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
-[012]   # PLACEHOLDER Route101
+[005]   # Routes
 Name = Route 101
 Outdoor = true
 ShowArea = true

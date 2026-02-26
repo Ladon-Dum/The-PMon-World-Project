@@ -53,7 +53,7 @@ KANTO
 HOENN
 - Various tiles are not "complete" as faithful recreations, e.g. fences, path inner corners
 - Fortree shadows are missing
-- Animated water rocks are using the HGSS Gen 3 sprite instead of a proper RSE
+- Animated water rocks are using the HGSS Gen 3 sprite instead of a proper RSE (RSE_Water Rock Large1 needs to have its texture updated, and HGSS_Water Rock Large3 needs the same texture update as well as a name change to RSE_xx2)
 
 
 Inconsequential

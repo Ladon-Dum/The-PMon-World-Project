@@ -53,6 +53,7 @@ KANTO
 HOENN
 - Various tiles are not "complete" as faithful recreations, e.g. fences, path inner corners
 - Fortree shadows are missing
+- Animated water rocks are using the HGSS Gen 3 sprite instead of a proper RSE
 
 
 Inconsequential
